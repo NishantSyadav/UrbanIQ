@@ -1,0 +1,122 @@
+{
+  "UIQ-4829-X8": [
+    {
+      "status": "Reported",
+      "timestamp": "2026-06-24T08:30:00-07:00",
+      "note": "Report registered in system. Automated AI Analysis triggered.",
+      "performedBy": "Citizen Reporter"
+    },
+    {
+      "status": "Verified",
+      "timestamp": "2026-06-24T08:31:00-07:00",
+      "note": "AI classified issue as Road Hazard with 96% confidence. Recommended High priority dispatch.",
+      "performedBy": "UrbanIQ Core AI"
+    },
+    {
+      "status": "Inspection Scheduled",
+      "timestamp": "2026-06-24T10:00:00-07:00",
+      "note": "Assigned to Public Works Depot 3 - Delta Crew. Scheduled for patch repair.",
+      "performedBy": "System Dispatcher"
+    },
+    {
+      "status": "Work In Progress",
+      "timestamp": "2026-06-25T04:15:00-07:00",
+      "note": "Crew arrived at site. Temporary lane closures established. Commencing asphalt fill.",
+      "performedBy": "Field Supervisor Miller"
+    }
+  ],
+  "UIQ-1092-B2": [
+    {
+      "status": "Reported",
+      "timestamp": "2026-06-24T18:15:00-07:00",
+      "note": "Report filed with photo attachment.",
+      "performedBy": "Citizen Reporter"
+    },
+    {
+      "status": "Verified",
+      "timestamp": "2026-06-24T18:20:00-07:00",
+      "note": "AI classified as Illegal Waste Dumping. Directed to Waste Management Depot 5.",
+      "performedBy": "UrbanIQ Core AI"
+    },
+    {
+      "status": "Inspection Scheduled",
+      "timestamp": "2026-06-25T01:30:00-07:00",
+      "note": "Disposal truck #308 scheduled for early morning sweep at 07:30 AM.",
+      "performedBy": "Sanitation Supervisor"
+    }
+  ],
+  "UIQ-9938-Z1": [
+    {
+      "status": "Reported",
+      "timestamp": "2026-06-25T05:40:00-07:00",
+      "note": "Emergency civic alert logged. High flow volume reported.",
+      "performedBy": "Citizen Reporter"
+    },
+    {
+      "status": "Verified",
+      "timestamp": "2026-06-25T05:42:00-07:00",
+      "note": "AI flagged as CRITICAL. High hazard of localized soil liquefaction and utility damage. Automated dispatcher notifications delivered to emergency water crew.",
+      "performedBy": "UrbanIQ Core AI"
+    }
+  ],
+  "UIQ-7729-M4": [
+    {
+      "status": "Reported",
+      "timestamp": "2026-06-20T21:10:00-07:00",
+      "note": "Report filed concerning darkness hazard on Oak Ave.",
+      "performedBy": "Citizen Reporter"
+    },
+    {
+      "status": "Verified",
+      "timestamp": "2026-06-20T21:15:00-07:00",
+      "note": "AI classified as Broken Streetlights and determined that multi-lamp sequential failure implies a grid fuse issue rather than simple bulb wear.",
+      "performedBy": "UrbanIQ Core AI"
+    },
+    {
+      "status": "Inspection Scheduled",
+      "timestamp": "2026-06-21T09:00:00-07:00",
+      "note": "Work Order #LIGHT-881 routed to Grid Crew Bravo.",
+      "performedBy": "Grid Coordinator"
+    },
+    {
+      "status": "Work In Progress",
+      "timestamp": "2026-06-22T13:10:00-07:00",
+      "note": "Crew on site. High-altitude bucket raised to test photo-sensitive receptors.",
+      "performedBy": "Lighting Tech Diaz"
+    },
+    {
+      "status": "Resolved",
+      "timestamp": "2026-06-22T14:45:00-07:00",
+      "note": "Fuses replaced. Luminaires upgraded to LED. Verified full lumen output. Issue resolved.",
+      "performedBy": "Field Supervisor Harris"
+    }
+  ],
+  "UIQ-2201-P9": [
+    {
+      "status": "Reported",
+      "timestamp": "2026-06-25T03:10:00-07:00",
+      "note": "Critical blockage logged near Market St alley.",
+      "performedBy": "Citizen Reporter"
+    },
+    {
+      "status": "Verified",
+      "timestamp": "2026-06-25T03:14:00-07:00",
+      "note": "AI classified as Sewage Drainage Obstruction. Recommended emergency sanitation routing.",
+      "performedBy": "UrbanIQ Core AI"
+    },
+    {
+      "status": "Inspection Scheduled",
+      "timestamp": "2026-06-25T05:00:00-07:00",
+      "note": "Emergency Hydro-Vac Truck #12 scheduled to arrive by 09:30 AM.",
+      "performedBy": "Water Authority Dispatch"
+    }
+  ],
+  "UIQ-4576-LGTXI": [
+    {
+      "status": "Reported",
+      "timestamp": "2026-06-27T16:31:54.933Z",
+      "note": "Civic report logged securely. AI Dispatcher designated routing parameters.",
+      "performedBy": "Citizen Reporter"
+    }
+  ]
+}

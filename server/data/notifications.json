@@ -1,0 +1,34 @@
+[
+  {
+    "id": "notif-1782577914941-838",
+    "title": "Report Logged Successfully",
+    "body": "Your report \"Dark Zone & Inoperative Pole Luminaire\" was submitted successfully. Tracking ID: UIQ-4576-LGTXI",
+    "type": "general",
+    "timestamp": "2026-06-27T16:31:54.941Z",
+    "read": false
+  },
+  {
+    "id": "notif-1",
+    "title": "Issue Status Advanced",
+    "body": "Your reported issue \"Water Leakage Near Oakwood Heights\" has been marked as IN PROGRESS.",
+    "type": "update",
+    "timestamp": "2026-06-27T14:30:10.793Z",
+    "read": false
+  },
+  {
+    "id": "notif-2",
+    "title": "New Community Supporter",
+    "body": "3 citizens have upvoted your report \"Deep Potholes on Main St\" to confirm urgency.",
+    "type": "support",
+    "timestamp": "2026-06-27T08:30:10.794Z",
+    "read": false
+  },
+  {
+    "id": "notif-3",
+    "title": "Resolution Alert",
+    "body": "Crews have successfully resolved \"Broken streetlights at central sector 3\". Thank you for making our streets safer!",
+    "type": "resolve",
+    "timestamp": "2026-06-26T16:30:10.794Z",
+    "read": true
+  }
+]

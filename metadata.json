@@ -1,0 +1,6 @@
+{
+  "name": "UrbanIQ",
+  "description": "A modern AI-powered Civic Intelligence Platform helping citizens report, analyze, and track civic issues.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
